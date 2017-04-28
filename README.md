@@ -25,7 +25,8 @@
        <h5 style="font-family: Comic Sans MS">Clubs</h5>
           <li>Art Club</li>
           <li>Student Council</li>
-          <li>Dance Club</li>
+          <li>Dance Club (When we had one.)</li>
+	  <li>Drama Club (When we had one...I was the DJ.)</li>
      </ul>
 
       
