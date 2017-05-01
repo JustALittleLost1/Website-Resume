@@ -1,13 +1,16 @@
 # Website-Resume
 <!DOCTYPE html>
 
+<!DOCTYPE html>
+
 <html>
  <head>
 	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
  </head>
  <body>
   <h1 style="font-family: Comic Sans MS">Bio</h1>
-     <p style="font-family: Comic Sans MS">A little bit about me. My name is Kamryn Hues. I'm sixteen and I'm currently employed at my              father business.I really enjoy drawing and creating stuff that others as well as myself would enjoy.My passtime is sketching and            playing video games. I would describe myself as a creative and determined person. I like to do things that make a differecne in            peoples life. Video games are my passion and one day i would like to design the charaters in a video game.</p>
+   <div style="width:700px; height:200px; background-color:">
+     <p style="font-family: Comic Sans MS">A little bit about me. My name is Kamryn Hues. I'm sixteen and I'm currently employed at my              father business.I really enjoy drawing and creating stuff that others as well as myself would enjoy.My passtime is sketching and            playing video games. I would describe myself as a creative and determined person. I like to do things that make a differecne in            peoples life. Video games are my passion and one day i would like to design the charaters in a video game.</p></div>
   <h3 style="font-family: Comic Sans MS">Work Experience</h3>	
      <p style="Font-family: Comic Sans MS">This is what I have experience in so far...</p> 
         <ul>
