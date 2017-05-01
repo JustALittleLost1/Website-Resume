@@ -16,4 +16,7 @@ p  {
     }
 ul  {
     text-align: center;
+    }
+div {
+    border: 2px solid #000000;
 }
